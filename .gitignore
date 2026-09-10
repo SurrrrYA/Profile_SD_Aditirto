@@ -1,0 +1,17 @@
+# Database / credential
+config.php
+
+# Environment
+.env
+.env.*
+
+# Upload file
+uploads/
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
